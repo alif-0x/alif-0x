@@ -3,9 +3,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alif-0x&hide_progress=false&theme=dark)
 
 ### Symbolic contributions:
-- BTC: `bc1pdvu9a9yqgnunh3hy27qz56nw5n6mjzss0m28w94lu8pt9nnj4rgqqh44es`
-- ETC: `0xcD4900c0aB884291421376493d8d54e7BAA0d0ac`
-- SOL: `3GVVU3xfLEi21RLWEQsZ2KfDdwhEL31xA7Q5WatVEW2W`
+- SOL: `J8sHyhsKZNjyUzjSxdK27VgRrmirtvJXDD7wCtEUQaj4`
+- BTC: `bc1pyl7k03uq9grm78j6w2mlrydmlruerra5e2j38tlddu94px5ksl8quvj8q7`
+- ETC: `0x0c188F8513C98326e3873aa1F745Aca1611d1803`
 
 <br>
 
